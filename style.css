@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: darkgreen;
+    
+}
+img{
+    transition: transform .2s;
+    border: 25px solid="red";
+}
+img:hover{
+    transform: scale(0.9);
+}
